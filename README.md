@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AGuyNamedDan008
 - 👀 I’m interested in computer stuff
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate with your mother
 - 📫 How to reach me? Don't
 
